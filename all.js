@@ -13,7 +13,7 @@
           "https://lampame.github.io/main/bo.js", // Бандера Онлайн
 
 
-          "https://lbvfl.github.io/online.js",
+         // "https://вашепосилання",
          // "https://вашепосилання",
          // "https://вашепосилання",
          // "https://вашепосилання",
