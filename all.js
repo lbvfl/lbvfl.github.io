@@ -14,7 +14,7 @@
 
 
           "http://192.168.1.11:9120/online.js",
-         // "https://вашепосилання",
+          "https://lbvfl.github.io/radio.js",
          // "https://вашепосилання",
          // "https://вашепосилання",
 
