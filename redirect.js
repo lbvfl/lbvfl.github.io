@@ -61,9 +61,6 @@
                     values: {
                         '': 'Не вибрано',
                         'http://192.168.1.11:9120/': 'Lampac',
-                        'https://kinohub.uk/': 'KinoHub',
-                        'http://lampaua.mooo.com/': 'Lampa UA',
-                        'http://siaivo.isroot.in/': 'Сяєво UA',
                         'http://lampa.mx/': 'Lampa MX',
                         'https://beta.l-vid.online/': 'Alpac'
                     },
