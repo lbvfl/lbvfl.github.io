@@ -22,7 +22,6 @@
           "https://lbvfl.github.io/radio.js",                  // Каталог радіостанцій
           "https://lbvfl.github.io/Parsers.js",                // Каталог парсерів
        // "https://lbvfl.github.io/вашплагін.js",
-       // "https://lbvfl.github.io/вашплагін.js",
           
 
        // "https://icantrytodo.github.io/lampa/torrent_styles_v2.js", //стиль торентів може конфліктувати з іншими стилями
@@ -33,8 +32,11 @@
           "https://ko31k.github.io/LMP/plugins/interface+.js", // Комплексне покращення інтерфейсу: панелі, мітки, теми, керування кнопками
           "https://ko31k.github.io/LMP/plugins/buttons+.js",   // Редактор кнопок в картці фільму/серіалу
           "https://ko31k.github.io/LMP/plugins/cardify+.js",   // Широкий інтефейс для картки. Чистіша картка, фонові трейлери або слайдшоу
+          "https://ko31k.github.io/LMP/plugins/menueditor.js", // Налаштування меню
+          
           "https://apxubatop.github.io/lmpPlugs/tvbutton.js",  // Налаштування поведінки першої кнопки
-          "https://ko31k.github.io/LMP/plugins/menueditor.js"  // Налаштування меню
+          "https://lampaplugins.github.io/store/store.js"      // Піратські плагіни
+          
 
 
 
