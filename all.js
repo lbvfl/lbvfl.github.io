@@ -8,9 +8,9 @@
       Lampa.Utils.putScriptAsync(
         [
 
-          "http://wtch.ch/m", //Онлайн без преміум
-          "http://bwa.ad/rc", // Онлайн BWA
-          "https://lampame.github.io/main/bo.js", // Бандера Онлайн
+          "http://wtch.ch/m",                                  // Онлайн SHOVY без преміум
+          "http://bwa.ad/rc",                                  // Онлайн BWA
+          "https://lampame.github.io/main/bo.js",              // Бандера Онлайн
 
 
           "http://192.168.1.11:9120/online.js",                // LAMPAC Онлайн
