@@ -13,15 +13,22 @@
           "https://lampame.github.io/main/bo.js", // Бандера Онлайн
 
 
-          "http://192.168.1.11:9120/online.js",
-          "https://lbvfl.github.io/radio.js",
-         // "https://вашепосилання",
-         // "https://вашепосилання",
+          "http://192.168.1.11:9120/online.js",                // LAMPAC Онлайн
+       // "https://192.168.1.11:9120/вашплагін.js",
+       // "https://192.168.1.11:9120/вашплагін.js",
+       // "https://192.168.1.11:9120/вашплагін.js",
 
-         // "https://icantrytodo.github.io/lampa/torrent_styles_v2.js", //стиль торентів може конфліктувати з іншими стилями
-         // "https://darkestclouds.github.io/plugins/easytorrent/easytorrent.min.js", //рекомендація торрентів
-
+          
+          "https://lbvfl.github.io/radio.js",                  // Каталог радіостанцій
           "https://lbvfl.github.io/Parsers.js",                // Каталог парсерів
+       // "https://lbvfl.github.io/вашплагін.js",
+       // "https://lbvfl.github.io/вашплагін.js",
+          
+
+       // "https://icantrytodo.github.io/lampa/torrent_styles_v2.js", //стиль торентів може конфліктувати з іншими стилями
+       // "https://darkestclouds.github.io/plugins/easytorrent/easytorrent.min.js", //рекомендація торрентів
+
+          
        // "https://ko31k.github.io/LMP/plugins/Parsers.js",    // Каталог парсерів
           "https://ko31k.github.io/LMP/plugins/interface+.js", // Комплексне покращення інтерфейсу: панелі, мітки, теми, керування кнопками
           "https://ko31k.github.io/LMP/plugins/buttons+.js",   // Редактор кнопок в картці фільму/серіалу
