@@ -25,7 +25,13 @@
     {
       "title": "Онлайн видео",
       "results": [
-        
+        {
+          "name": "Бандера",
+          "author": "@lampame",
+          "link": "https://lampame.github.io/main/bo.js",
+          "descr": "Бандера Онлайн",
+          "available_lampa": 1
+        },
         {
           "name": "NetFix",
           "author": "@netfix_party",
