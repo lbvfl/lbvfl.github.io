@@ -21,6 +21,7 @@
           
           "https://lbvfl.github.io/radio.js",                  // Каталог радіостанцій
           "https://lbvfl.github.io/Parsers.js",                // Каталог парсерів
+          "https://lbvfl.github.io/store.js",                  // Піратські плагіни
        // "https://lbvfl.github.io/вашплагін.js",
           
 
@@ -34,8 +35,8 @@
           "https://ko31k.github.io/LMP/plugins/cardify+.js",   // Широкий інтефейс для картки. Чистіша картка, фонові трейлери або слайдшоу
           "https://ko31k.github.io/LMP/plugins/menueditor.js", // Налаштування меню
           
-          "https://apxubatop.github.io/lmpPlugs/tvbutton.js",  // Налаштування поведінки першої кнопки
-          "https://lampaplugins.github.io/store/store.js"      // Піратські плагіни
+          "https://apxubatop.github.io/lmpPlugs/tvbutton.js"  // Налаштування поведінки першої кнопки
+       // "https://lampaplugins.github.io/store/store.js"      // Піратські плагіни
           
 
 
