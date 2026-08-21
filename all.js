@@ -11,11 +11,13 @@
           "http://wtch.ch/m",                                  // Онлайн SHOVY без преміум
           "http://bwa.ad/rc",                                  // Онлайн BWA
           "https://lampame.github.io/main/bo.js",              // Бандера Онлайн
+          "https://p.bwa.ad/online.js",                        // BWA
+                    
 
 
           "http://192.168.1.11:9120/online.js",                // LAMPAC Онлайн
-          "https://amikdn.github.io/nova_skin.js", 
-          "https://p.bwa.ad/online.js",
+       // "https://192.168.1.11:9120/вашплагін.js",
+       // "https://192.168.1.11:9120/вашплагін.js",
        // "https://192.168.1.11:9120/вашплагін.js",
 
           
@@ -35,7 +37,8 @@
        // "https://ko31k.github.io/LMP/plugins/cardify+.js",   // Широкий інтефейс для картки. Чистіша картка, фонові трейлери або слайдшоу
           "https://ko31k.github.io/LMP/plugins/menueditor.js", // Налаштування меню
           
-          "https://apxubatop.github.io/lmpPlugs/tvbutton.js"  // Налаштування поведінки першої кнопки
+          "https://apxubatop.github.io/lmpPlugs/tvbutton.js",  // Налаштування поведінки першої кнопки
+          "https://amikdn.github.io/nova_skin.js"
        // "https://lampaplugins.github.io/store/store.js"      // Піратські плагіни
           
 
