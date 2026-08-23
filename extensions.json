@@ -12,6 +12,15 @@
           "descr": "nova_skin",
           "available_lampa": 1
         },
+        
+        {
+          "name": "Yarik's Design",
+          "author": "@YaroslavFilms",
+          "link": "https://yarikrazor-star.github.io/lmp/ydes.js",
+          "descr": "Пакет повного кастомного редизайну карток фільмів.",
+          "available_lampa": 1
+        },
+        
         {
           "name": "obsidian",
           "author": "@levende",
