@@ -432,10 +432,10 @@
           "available_lampa": 1
         },
         {
-          "name": "Отключение Websocket",
-          "author": "@rootu",
-          "link": "http://plugin.rootu.top/wsoff.js",
-          "descr": "Плагин отключает протокол Websocket, помогает при ошибках на некоторых устройствах",
+          "name": "Addon",
+          "author": "@amikdn",
+          "link": "https://amikdn.github.io/addon.js",
+          "descr": "Магазин плагінів",
           "available_lampa": 1
         }
       ],
