@@ -4,7 +4,6 @@
     {
       "title": "Custom",
       "results": [
-
         {
           "name": "AppleTVAGNative",
           "author": "@llowmikee",
@@ -12,12 +11,12 @@
           "descr": "Плагін Lampa, який змінює форму верхньої навігації, карток контенту та вибраних частин інтерфейсу у стилі Apple TV.",
           "available_lampa": 1
         },
-
+        
         {
-          "name": "AppleTVAGNative",
-          "author": "@llowmikee",
-          "link": "https://llowmikee.github.io/AppleTVAGNativeNG/appletv_agnative.js",
-          "descr": "Плагін Lampa, який змінює форму верхньої навігації, карток контенту та вибраних частин інтерфейсу у стилі Apple TV.",
+          "name": "Addon",
+          "author": "@amikdn",
+          "link": "https://amikdn.github.io/addon.js",
+          "descr": "Магазин плагінів",
           "available_lampa": 1
         },
         
