@@ -11,20 +11,12 @@
           "descr": "Плагін Lampa, який змінює форму верхньої навігації, карток контенту та вибраних частин інтерфейсу у стилі Apple TV.",
           "available_lampa": 1
         },
-        
-        {
-          "name": "Addon",
-          "author": "@amikdn",
-          "link": "https://amikdn.github.io/addon.js",
-          "descr": "Магазин плагінів",
-          "available_lampa": 1
-        },
-        
+       
         {
           "name": "nova_skin",
           "author": "@amikdn",
           "link": "https://amikdn.github.io/nova_skin.js",
-          "descr": "nova_skin",
+          "descr": "Покращення інтерфейсу",
           "available_lampa": 1
         },
         
