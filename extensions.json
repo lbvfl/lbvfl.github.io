@@ -6,6 +6,14 @@
       "results": [
 
         {
+          "name": "Addon",
+          "author": "@amikdn",
+          "link": "https://amikdn.github.io/addon.js",
+          "descr": "Магазин плагінів",
+          "available_lampa": 1
+        },
+
+        {
           "name": "AppleTVAGNative",
           "author": "@llowmikee",
           "link": "https://llowmikee.github.io/AppleTVAGNativeNG/appletv_agnative.js",
