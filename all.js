@@ -38,7 +38,7 @@
           "https://ko31k.github.io/LMP/plugins/menueditor.js", // Налаштування меню
           
           "https://apxubatop.github.io/lmpPlugs/tvbutton.js",  // Налаштування поведінки першої кнопки
-          "https://amikdn.github.io/nova_skin.js"
+          "https://amikdn.github.io/nova_skin.js"              //Новий інтерфейс для плагінів на основі лампаків
        // "https://lampaplugins.github.io/store/store.js"      // Піратські плагіни
           
 
