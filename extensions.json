@@ -13,14 +13,14 @@
         },
        
         {
-          "name": "nova_wide",
+          "name": "Nova_wide",
           "author": "@amikdn",
           "link": "https://amikdn.github.io/nova_wide.js",
           "descr": "Новий інтерфейс для плагінів на основі лампаків",
           "available_lampa": 1
         },
         {
-          "name": "nova_skin",
+          "name": "Nova_skin",
           "author": "@amikdn",
           "link": "https://amikdn.github.io/nova_skin.js",
           "descr": "Новий інтерфейс для плагінів на основі лампаків",
@@ -36,7 +36,7 @@
         },
         
         {
-          "name": "obsidian",
+          "name": "Obsidian",
           "author": "@levende",
           "link": "https://levende.github.io/lampa-plugins/obsidian.js",
           "descr": "Покращення інтерфейсу",
