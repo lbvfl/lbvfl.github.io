@@ -13,6 +13,13 @@
         },
        
         {
+          "name": "nova_wide",
+          "author": "@amikdn",
+          "link": "https://amikdn.github.io/nova_wide.js",
+          "descr": "Новий інтерфейс для плагінів на основі лампаків",
+          "available_lampa": 1
+        },
+        {
           "name": "nova_skin",
           "author": "@amikdn",
           "link": "https://amikdn.github.io/nova_skin.js",
