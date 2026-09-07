@@ -11,6 +11,13 @@
           "descr": "Плагін Lampa, який змінює форму верхньої навігації, карток контенту та вибраних частин інтерфейсу у стилі Apple TV.",
           "available_lampa": 1
         },
+        {
+          "name": "Nova_plus",
+          "author": "@amikdn",
+          "link": "https://amikdn.github.io/nova_plus.js",
+          "descr": "Новий інтерфейс для плагінів на основі лампаків",
+          "available_lampa": 1
+        },
        
         {
           "name": "Nova_wide",
