@@ -12,6 +12,13 @@
           "available_lampa": 1
         },
         {
+          "name": "Local Lists",
+          "author": "@lmpp",
+          "link": "https://lmpp.github.io/lmp/ll.js",
+          "descr": "Плагін додає власні іменовані списки фільмів і серіалів (окремо від стандартного «Вибране»), з хмарним резервним копіюванням через GitHub Gist та імпортом з Trakt.tv.",
+          "available_lampa": 1
+        },
+        {
           "name": "Nova_plus",
           "author": "@amikdn",
           "link": "https://amikdn.github.io/nova_plus.js",
