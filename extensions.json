@@ -77,6 +77,20 @@
           "available_lampa": 1
         },
         {
+          "name": "Lampac ONL",
+          "author": "@amikdn",
+          "link": "https://amikdn.github.io/o.js",
+          "descr": "Онлайн",
+          "available_lampa": 1
+        },
+        {
+          "name": "onl_lampac",
+          "author": "@amikdn",
+          "link": "https://amikdn.github.io/onl.js",
+          "descr": "Онлайн",
+          "available_lampa": 1
+        },
+        {
           "name": "NetFix",
           "author": "@netfix_party",
           "link": "https://netfix.cc/netfix.js",
