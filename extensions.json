@@ -70,6 +70,13 @@
           "available_lampa": 1
         },
         {
+          "name": "ALPAC online",
+          "author": "@ManiacWithAxe",
+          "link": "https://beta.l-vid.online/online.js?v=dev",
+          "descr": "ALPAC online",
+          "available_lampa": 1
+        },
+        {
           "name": "NetFix",
           "author": "@netfix_party",
           "link": "https://netfix.cc/netfix.js",
