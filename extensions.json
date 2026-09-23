@@ -84,6 +84,13 @@
           "available_lampa": 1
         },
         {
+          "name": "Lampac NEXTGEN",
+          "author": "@amikdn",
+          "link": "https://amikdn.github.io/ab.js",
+          "descr": "Онлайн",
+          "available_lampa": 1
+        },
+        {
           "name": "Lampac ONL",
           "author": "@amikdn",
           "link": "https://amikdn.github.io/o.js",
