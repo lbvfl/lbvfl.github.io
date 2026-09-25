@@ -19,6 +19,13 @@
           "available_lampa": 1
         },
         {
+          "name": "cinema",
+          "author": "@doccerino",
+          "link": "https://minionmer-oss.github.io/lampa-cinema-skin/cinema.js",
+          "descr": "Новий інтерфейс",
+          "available_lampa": 1
+        },
+        {
           "name": "Nova_plus",
           "author": "@amikdn",
           "link": "https://amikdn.github.io/nova_plus.js",
