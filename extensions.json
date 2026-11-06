@@ -33,6 +33,13 @@
           "available_lampa": 1
         },
         {
+          "name": "LMX Pack",
+          "author": "@irfnekf",
+          "link": "https://irfnekf.github.io/lampa-plugins/lmx_pack.js",
+          "descr": "Використання в одному для Lampa: власна головна, каталоги (стрімінги, аніме, дорами), теми, сторінка фільму, NoCub",
+          "available_lampa": 1
+        },
+        {
           "name": "cinema",
           "author": "@doccerino",
           "link": "https://minionmer-oss.github.io/lampa-cinema-skin/cinema.js",
