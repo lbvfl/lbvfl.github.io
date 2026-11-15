@@ -98,10 +98,10 @@
       "title": "Онлайн видео",
       "results": [
         {
-          "name": "Бандера",
-          "author": "@lampame",
-          "link": "https://lampame.github.io/main/bo.js",
-          "descr": "Бандера Онлайн",
+          "name": "UAFresh",
+          "author": "@uafresh",
+          "link": "https://uakino.ofreshofresh.workers.dev/uakino.js",
+          "descr": "UAFresh",
           "available_lampa": 1
         },
         {
