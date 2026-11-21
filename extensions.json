@@ -201,10 +201,10 @@
         },
         
         {
-          "name": "Клубничка",
-          "author": "@amikdn",
-          "link": "https://amikdn.github.io/sisi.js",
-          "descr": "Онлайн просмотр контента для взрослых",
+          "name": "Флігель",
+          "author": "@nrsua",
+          "link": "https://nrsua.github.io/lampa-nrs/fligelo.js",
+          "descr": "Онлайн",
           "available_lampa": 1
         }
       ],
