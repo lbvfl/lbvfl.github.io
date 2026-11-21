@@ -19,10 +19,10 @@
           "available_lampa": 1
         },
         {
-          "name": "Android_fav_bridge",
-          "author": "Artem",
-          "link": "https://lbvfl.github.io/android_fav_bridge.js",
-          "descr":"Міст для андроід для каналів https://lbvfl.github.io/android_fav_bridge.js",
+          "name": "EpWatch Lite",
+          "author": "@nrsua",
+          "link": "https://nrsua.github.io/lampa-nrs/epwatchlite.js",
+          "descr":"Сповіщення про нові серії",
           "available_lampa": 1
         },
         {
